@@ -12,6 +12,8 @@
 
 .pic.headerli img {
     border-radius: 20px;
+    height: 35px;
+    
     /* Resim yuvarlatıldı */
 }
 
